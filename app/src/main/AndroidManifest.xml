@@ -18,7 +18,7 @@
         <!--插件版本号-->
         <meta-data
             android:name="com.qihoo360.plugin.version.ver"
-            android:value="102"/>
+            android:value="109"/>
 
         <activity android:name="com.xyz.plugindemo.MainActivity">
             <intent-filter>
